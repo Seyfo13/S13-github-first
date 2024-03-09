@@ -1,0 +1,16 @@
+li{
+list-style: none;
+float: left;
+margin-left:20px ;
+margin-bottom: 30px;
+}
+img{
+    height: 90vh;
+    margin-left: 330px;
+   margin-top: -200px;
+}
+p{
+    width: 100px;
+}
+
+
